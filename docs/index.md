@@ -1,8 +1,8 @@
 ## Goals of this project
-The goals **Audacium** is trying to achieve are pretty simple :
-- Restoring Audacity to what it was before, with no crash reporting (GH Issues exist for that), or very simple update checking (only at startup, not periodically)
-- Adding new features people want, listening closely to the community
-- Make the code base easier to work with, less confusing for a newbie
+The goals **Audacium** is trying to achieve are pretty simple:
+- Restoring Audacity to what it was before, with no crash reporting (GH Issues exist for that), or very simple update checking (only at startup, not periodically).
+- Adding new features people want, listening closely to the community.
+- Make the code base easier to work with, less confusing for a newbie.
 
 ## Donations
 Litecoin: LfA7A3wVdGysc4QXpsUvYaVUYvhcZnVE7j
@@ -25,6 +25,6 @@ Litecoin: LfA7A3wVdGysc4QXpsUvYaVUYvhcZnVE7j
 For end users, the latest release of Audacium is available [here](https://github.com/SartoxSoftware/audacium/releases/latest).
 Help with using Audacium is available from the [Matrix room](https://matrix.to/#/#audacium:envs.net) or via the [Discord server](https://discord.gg/ZH5234Abhb) (the two are bridged together).
 
-Build instructions are available [here](https://github.com/SartoxOnlyGNU/audacium/wiki/Building).
+Build instructions are available [here](https://github.com/SartoxSoftware/audacium/wiki/Building).
 
-More information is available from the [wiki](https://github.com/SartoxOnlyGNU/audacium/wiki).
+More information is available from the [wiki](https://github.com/SartoxSoftware/audacium/wiki).
